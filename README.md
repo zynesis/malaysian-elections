@@ -7,19 +7,19 @@ Collection of data related to Malaysian Elections in JSON.
 #### 1. Parliament seats
 
 - List of parliament seats, as obtained from Election Commission of Malaysia.
-- With additional unofficial geolocation data.
+- With additional unofficial & unverified geolocation data.
 - Fields:
     - Seat ID
     - Name
     - Geographical latitude
     - Geographical longitude
 
-  
+
 
 #### 2. State seats
 
 - List of state seats, as obtained from Election Commission of Malaysia.
-- With additional unofficial geolocation data. _(TODO)_
+- With additional unofficial & unverified geolocation data. _(TODO)_
 - Fields:
     - Seat ID
     - Name
@@ -39,6 +39,6 @@ Contributions and pull requests are welcomed.
 
 
 ## License
-The MIT License  
+The MIT License
 Copyright © 2013 [Zynesis Consulting](http://zynesis.com/)
 
