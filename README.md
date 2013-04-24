@@ -1,25 +1,30 @@
 # Malaysian Elections Data
 
+Collection of data related to Malaysian Elections in JSON.
+
 ## What are available
-1. Parliament seats
 
-    - List of parliament seats, as obtained from Election Commission of Malaysia.
-    - With additional unofficial geolocation data.
-    - Fields:
-        - Seat ID
-        - Name
-        - Geographical latitude
-        - Geographical longitude
+#### 1. Parliament seats
 
-1. State seats
+- List of parliament seats, as obtained from Election Commission of Malaysia.
+- With additional unofficial geolocation data.
+- Fields:
+    - Seat ID
+    - Name
+    - Geographical latitude
+    - Geographical longitude
 
-    - List of state seats, as obtained from Election Commission of Malaysia.
-    - With additional unofficial geolocation data. _(TODO)_
-    - Fields:
-        - Seat ID
-        - Name
-        - Parliament seat ID
-        - Parliament seat name
+  
+
+#### 2. State seats
+
+- List of state seats, as obtained from Election Commission of Malaysia.
+- With additional unofficial geolocation data. _(TODO)_
+- Fields:
+    - Seat ID
+    - Name
+    - Parliament seat ID
+    - Parliament seat name
 
 ## Contribute
 
