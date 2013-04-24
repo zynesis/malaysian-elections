@@ -1,16 +1,39 @@
-# Malaysia Election Parliaments & States Data
+# Malaysian Elections Data
 
-## How to use this?
+## What are available
+1. Parliament seats
 
-We provide Malaysia election parliaments and states data in `JSON` format. You can simple read and modify with any text reader. Please feel free to fork it and extend it to your own data (e.g. last year elections result).
+    - List of parliament seats, as obtained from Election Commission of Malaysia.
+    - With additional unofficial geolocation data.
+    - Fields:
+        - Seat ID
+        - Name
+        - Geographical latitude
+        - Geographical longitude
 
-## Some part in JSON
+1. State seats
 
-```[{"id":"P1","name":"Padang Besar","geo_lat":"6.656006","geo_lng":"100.311325","state":"Perlis"},
-{"id":"P2","name":"Kangar","geo_lat":"6.445515","geo_lng":"100.200233","state":"Perlis"}, ... ]```
+    - List of state seats, as obtained from Election Commission of Malaysia.
+    - With additional unofficial geolocation data. _(TODO)_
+    - Fields:
+        - Seat ID
+        - Name
+        - Parliament seat ID
+        - Parliament seat name
 
-We prepared longitude and latitude to each parliaments.
+## Contribute
+
+Initial parliament and state seats data are contributed by [Kven Ho](https://github.com/imkven).
+
+It would be nice if this repository also contains:
+
+1. Past election results
+1. Number of registered voters in each seats
+
+Contributions and pull requests are welcomed.
+
 
 ## License
+The MIT License  
+Copyright © 2013 [Zynesis Consulting](http://zynesis.com/)
 
-All the files released under [The MIT License (MIT)](http://opensource.org/licenses/MIT). Feel free to modify it.
