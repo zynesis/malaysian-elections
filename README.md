@@ -39,6 +39,6 @@ Contributions and pull requests are welcomed.
 
 
 ## License
-The MIT License
+The MIT License  
 Copyright © 2013 [Zynesis Consulting](http://zynesis.com/)
 
