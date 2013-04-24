@@ -1,10 +1,8 @@
 # Malaysia Election Parliaments & States Data
 
-## How ot use this?
+## How to use this?
 
 We provide Malaysia election parliaments and states data in `JSON` format. You can simple read and modify with any text reader. Please feel free to fork it and extend it to your own data (e.g. last year elections result).
-
-Here is example done for California Election: [Example]('https://github.com/wnyc/election_california_2012/tree/master/examples')
 
 ## Some part in JSON
 
@@ -15,4 +13,4 @@ We prepared longitude and latitude to each parliaments.
 
 ## License
 
-All the files released under [The MIT License (MIT)]('http://opensource.org/licenses/MIT'). Feel free to modify it.
+All the files released under [The MIT License (MIT)](http://opensource.org/licenses/MIT). Feel free to modify it.
